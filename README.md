@@ -214,6 +214,4 @@ src/
 
 ## 11. Créditos / Autor
 
-- Autor: ______________________
-- Curso/Asignatura: ______________________
-- Profesor(a): ______________________
+- Autor: Wilmer Andres Trujillo Vera
